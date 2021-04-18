@@ -11,10 +11,10 @@ glcmatch [image1 path] [image2 path] [putative matches path] [core matches path]
 ## Example
 
 Putative Matches
-![Putative Matches](.\Putative Matches.png)
+![Putative Matches](Putative Matches.png)
 
 Core Matches
-![Core Matches](.\Core Matches.png)
+![Core Matches](Core Matches.png)
 
 True Matches
-![True Matches](.\True Matches.png)
+![True Matches](True Matches.png)
